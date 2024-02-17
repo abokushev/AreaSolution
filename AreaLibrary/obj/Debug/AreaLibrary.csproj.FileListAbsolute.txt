@@ -1,0 +1,6 @@
+C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\bin\Debug\AreaLibrary.dll
+C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\bin\Debug\AreaLibrary.pdb
+C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\obj\Debug\AreaLibrary.csprojAssemblyReference.cache
+C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\obj\Debug\AreaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\obj\Debug\AreaLibrary.dll
+C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\obj\Debug\AreaLibrary.pdb
