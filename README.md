@@ -1,10 +1,11 @@
 # AreaSolution
 This library is created to calculate areas of figures. It may calculate areas of:
-*Circles;
-*Triangles;
-*Parallelograms;
-*Trapezoids;
-It also provides method to find out if the triangle is right. All methods are covered with unit tests. 
+* Circles;
+* Triangles;
+* Parallelograms;
+* Trapezoids;
+\b
+  It also provides method to find out if the triangle is right. All methods are covered with unit tests. 
 To calculate areas of more complex shapes I'd use Cartesian coordinate system with coordinates of vertices and functions to describe sides. 
 Calculating definite integrals of this functions will let us calculate area of any shape.
 
