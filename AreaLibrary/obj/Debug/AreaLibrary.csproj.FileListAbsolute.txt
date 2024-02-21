@@ -4,3 +4,6 @@ C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\obj\Debug\AreaLibrary.csproj
 C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\obj\Debug\AreaLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\obj\Debug\AreaLibrary.dll
 C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\obj\Debug\AreaLibrary.pdb
+C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Adil\source\repos\AreaSolution\AreaLibrary\obj\Debug\AreaLibrary.csproj.CopyComplete

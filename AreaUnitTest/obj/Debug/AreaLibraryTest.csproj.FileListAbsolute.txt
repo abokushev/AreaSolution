@@ -17,3 +17,5 @@ C:\Users\Adil\source\repos\AreaSolution\AreaUnitTest\obj\Debug\AreaLibraryTest.c
 C:\Users\Adil\source\repos\AreaSolution\AreaUnitTest\obj\Debug\AreaLibraryTest.csproj.CopyComplete
 C:\Users\Adil\source\repos\AreaSolution\AreaUnitTest\obj\Debug\AreaUnitTest.dll
 C:\Users\Adil\source\repos\AreaSolution\AreaUnitTest\obj\Debug\AreaUnitTest.pdb
+C:\Users\Adil\source\repos\AreaSolution\AreaUnitTest\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Adil\source\repos\AreaSolution\AreaUnitTest\bin\Debug\Microsoft.Bcl.HashCode.xml
